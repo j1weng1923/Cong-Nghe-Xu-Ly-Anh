@@ -14,7 +14,9 @@ Hệ thống điểm danh tự động dựa trên nhận dạng khuôn mặt s�
    So sánh vector đặc trưng với cơ sở dữ liệu khuôn mặt đã đăng ký để xác định danh tính.
 
 4. **Điểm danh tự động:**  
-   Khi khuôn mặt được nhận dạng thành công, hệ thống ghi lại thời gian và danh sách điểm danh, giúp quản lý attendance chính xác, nhanh chóng.
+   Khi khuôn mặt được nhận dạng thành công, hệ thống ghi lại thời gian và danh sách điểm danh, giúp quản lý attendance chính xác, nhanh chóng.  
+
+   ![Sơ đồ quy trình xử lý điểm danh khuôn mặt](images/LuongXuLyChiTiet.png)
 
 ### Công nghệ và thư viện:
 
