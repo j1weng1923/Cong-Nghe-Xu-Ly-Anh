@@ -2,6 +2,8 @@
 
 Hệ thống điểm danh tự động dựa trên nhận dạng khuôn mặt sử dụng mô hình YOLOv8m-face, một phiên bản YOLOv8 được tối ưu riêng cho nhận diện khuôn mặt với độ chính xác và tốc độ cao.
 
+![Sơ đồ quy trình xử lý điểm danh khuôn mặt](images/SoDoXuLyAnh.png)
+
 ### Các bước chính:
 
 1. **Phát hiện khuôn mặt (Face Detection):**  
